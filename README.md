@@ -1,1 +1,3 @@
-# geochem
+# My Project
+
+Initial repository setup.
